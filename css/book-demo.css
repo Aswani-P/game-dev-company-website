@@ -1,5 +1,5 @@
 #book-demo{
-    height: 450px;
+    height: 500px;
     background-color: #f7f7f7;
     display: flex;
     justify-content: center;
@@ -9,10 +9,9 @@
 #book-demo
 #book-demo-container{
     display: flex;
-    height: 60%;
+    height: 70%;
     width: 80%;
-    
-
+    justify-content: space-between;
 }
 #book-demo
 #book-demo-container
@@ -21,6 +20,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: flex-start;
+    width: 40%;
 }
 #book-demo
 #book-demo-container
@@ -37,7 +37,7 @@
 #text-content{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     color: #555555;
 }
 #book-demo
@@ -45,10 +45,14 @@
 #book-demo-text
 #text-button{
     color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
     background: linear-gradient(97.05deg, #D92A68 0%, #AC003D 100%);
     border-radius: 16px;
-    padding: 15px 15px;
+    padding: 15px 20px;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 
@@ -56,6 +60,5 @@
 #book-demo-container
 #book-demo-img
 img{
-   
     height: 100%;
 }
