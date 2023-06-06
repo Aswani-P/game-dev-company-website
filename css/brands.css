@@ -14,11 +14,12 @@
     justify-content: center;
     align-items: center;
     font-size: 32px;
-    font-weight: 700%;
+    font-weight: 700;
+    font-family: 'Catamaran', sans-serif;
 }
 #trusted-brands
 #brands{
-    height: 140px;
+    height: 200px;
     width: 80%;
     display: flex;
     justify-content: center;
@@ -28,6 +29,7 @@
     
    
 }
+#trusted-brands
 #brands
 #brand-container{
     display: flex;
@@ -36,7 +38,9 @@
     overflow-x: scroll;
     overflow-y: hidden;
     margin-left: 20px;
+    
 }
+#trusted-brands
 #brands
 #brand-container
 .brand-img{
