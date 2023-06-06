@@ -1,5 +1,5 @@
 #trusted-brands{
-    height: 250px;
+    height: 370px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -8,7 +8,7 @@
 }
 #trusted-brands
 #brands-head{
-    height: 120px;
+    height: 100px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -19,15 +19,13 @@
 }
 #trusted-brands
 #brands{
-    height: 200px;
+    height: 170px;
     width: 80%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     background-color: #4444440F;
-    
-   
 }
 #trusted-brands
 #brands
@@ -38,7 +36,6 @@
     overflow-x: scroll;
     overflow-y: hidden;
     margin-left: 20px;
-    
 }
 #trusted-brands
 #brands
