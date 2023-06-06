@@ -1,0 +1,45 @@
+#trusted-brands{
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    background-color:#f7f7f7;
+}
+#trusted-brands
+#brands-head{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Catamaran', sans-serif;
+}
+#trusted-brands
+#brands{
+    height: 170px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #4444440F;
+}
+#trusted-brands
+#brands
+#brand-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-left: 20px;
+}
+#trusted-brands
+#brands
+#brand-container
+.brand-img{
+    margin-left: 20px
+}
