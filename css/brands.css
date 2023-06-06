@@ -1,7 +1,44 @@
 #trusted-brands{
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;  
+    background-color:#f7f7f7;
+}
+#trusted-brands
+#brands-head{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: 700%;
+}
+#trusted-brands
+#brands{
+    height: 140px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #4444440F;
+    
+   
+}
+#brands
+#brand-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-left: 20px;
+}
+#brands
+#brand-container
+.brand-img{
+    margin-left: 20px
 }
