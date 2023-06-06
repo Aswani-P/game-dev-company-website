@@ -1,57 +1,7 @@
-#Trusted-brands{
+#trusted-brands{
+    height: 500px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
- 
- 
-
-   
+    align-items: center;  
 }
-
-
-#Trusted-brands
-#trusted-brands-wrold
-#world-wide-brands{
-    display: flex;
-    justify-content:center;
-    align-items: center;
-    font-family: Catamaran;
-    font-size: 200%;
-    font-style: normal;
-    font-weight: 500;
-    margin: 30px; 
-    
-   
-
-}
-
-#Trusted-brands
-#trusted-brands-wrold
-.Brands{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 130%;
-    height: 100px; 
-    overflow-x: scroll;
-    background-color:#f7f7f7;
-    padding-top: 20px;
-    padding-bottom: 20px;
-   
-    
-}
-.brand-container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    overflow: overlay;
-    width: 61%;
-  
-}
-img{
-    margin-right: 15px;
-}
-
-
-
-
