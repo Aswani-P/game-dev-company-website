@@ -1,0 +1,119 @@
+#gamification{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+}
+#gamification
+#gamification-container{
+    width: 1140px;
+    height: 600px;
+    
+}
+#gamification
+#gamification-container
+#gamification-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-family: 'Catamaran', sans-serif;
+    text-transform: uppercase;
+}
+#gamification
+#gamification-container
+#industries{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+}
+.industry-img{
+    width:284px;
+    height: 172px;
+    padding-left: 32px;
+    padding-top: 32px;
+}
+#gamification
+#gamification-container
+#industries
+#industry-1{
+    border: 1px rgba(217, 42, 104, 1);
+    box-sizing: border-box;
+    box-shadow: rgba(217, 42, 104, 0.13);
+    
+}
+#gamification
+#gamification-container
+#industries
+#industry-2{
+    border: 1px rgba(243, 196, 73, 1);
+    box-sizing: content-box;
+    box-shadow: rgba(243, 196, 73, 0.15);
+   
+}
+#gamification
+#gamification-container
+#industries
+#industry-3{
+    border: 1px rgba(41, 192, 146, 1);
+    box-sizing: border-box;
+    box-shadow: rgba(41, 192, 146, 0.13);
+    
+}
+
+#gamification
+#gamification-container
+#industries
+.industry{
+    width: 384px;
+    height: 409px;
+    
+    
+}
+.industry-head{
+    padding-left: 32px;
+    padding-top: 10px;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.industry-content{
+    padding-left: 32px;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+.know{
+    padding-left: 32px;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+
+}
+#gamification
+#gamification-container
+#industries
+#industry-1
+#know-more-1{
+    color: rgba(217, 42, 104, 1);
+}
+#gamification
+#gamification-container
+#industries
+#industry-2
+#know-more-2{
+    color: rgba(243, 196, 73, 1);
+}
+#gamification
+#gamification-container
+#industries
+#industry-3
+#know-more-3{
+    color: rgba(41, 192, 146, 1);
+}
