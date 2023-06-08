@@ -1,0 +1,114 @@
+#game-app{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 600px;
+    /* background-color: green; */
+}
+#game-app
+#game-app-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width:84%;
+    height: 500px;
+    /* background-color: beige; */
+}
+#game-app
+#game-app-container
+#container-text{
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    letter-spacing: 2%;
+   
+
+}
+#game-app
+#game-app-container
+#container-text
+#why-game-app{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+   
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-content{
+font-family: 'Montserrat', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: rgba(85, 85, 85, 1);
+height: 81px;
+letter-spacing: 2%;
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-content > div{
+    height: 27px;
+}
+
+#game-app
+#game-app-container
+#container-text
+#game-app-points{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    letter-spacing: 2%S;
+    
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.point{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+    color: rgba(85, 85, 85, 1);
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.points{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    justify-content: space-between;
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.dot{
+    width: 12px;
+    height: 12px;
+}
+#game-app
+#game-app-container
+#game-app-button{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(97.05deg, #D92A68 0%, #AC003D 100%);
+    border-radius: 16px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    width: 191px;
+}
+#game-app
+#game-app-container
+#container-img{
+    height: 420px;
+}
