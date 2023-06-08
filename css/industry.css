@@ -8,7 +8,7 @@
 #gamification
 #gamification-container{
     height: 450px;
-    width: 70%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -75,7 +75,7 @@
 .industry
 .industry-container{
     width: 80%;
-    height: 300px;
+    height: 320px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -109,8 +109,9 @@ img{
 .industry-container
 .industry-content{
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 400;
+    color: #555555;
 }
 #gamification
 #gamification-container
