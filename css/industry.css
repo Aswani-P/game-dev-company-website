@@ -1,0 +1,146 @@
+#gamification{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+}
+#gamification
+#gamification-container{
+    height: 450px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#gamification
+#gamification-container
+#gamification-head{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-family: 'Catamaran', sans-serif;
+    text-transform: uppercase;
+}
+#gamification
+#gamification-container
+#industries{
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#gamification
+#gamification-container
+#industries
+#industry-one{
+    box-sizing: border-box;
+    border: 1px solid #D92A68;
+    box-shadow: 0px 4px 66px rgba(217, 42, 104, 0.13);
+}
+#gamification
+#gamification-container
+#industries
+#industry-two{
+    box-sizing: border-box;
+    border: 1px solid #F3C449;
+    box-shadow: 0px 4px 66px rgba(243, 196, 73, 0.15);
+}
+#gamification
+#gamification-container
+#industries
+#industry-three{
+    box-sizing: border-box;
+    border: 1px solid #29C092;
+    box-shadow: 0px 4px 66px rgba(41, 192, 146, 0.13);
+}
+#gamification
+#gamification-container
+#industries
+.industry{
+    width: 30%;
+    height: 380px; 
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#gamification
+#gamification-container
+#industries
+.industry
+.industry-container{
+    width: 80%;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#gamification
+#gamification-container
+#industries
+.industry
+.industry-container
+.industry-img
+img{
+    height: 100%;
+    width: 100%;
+}
+
+#gamification
+#gamification-container
+#industries
+.industry
+.industry-container
+.industry-head{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#gamification
+#gamification-container
+#industries
+.industry
+.industry-container
+.industry-content{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+#gamification
+#gamification-container
+#industries
+.industry
+.industry-container
+.know{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+
+}
+#gamification
+#gamification-container
+#industries
+#industry-one
+#know-more-one{
+    color: rgba(217, 42, 104, 1);
+}
+#gamification
+#gamification-container
+#industries
+#industry-two
+#know-more-two{
+    color: rgba(243, 196, 73, 1);
+}
+#gamification
+#gamification-container
+#industries
+#industry-three
+#know-more-three{
+    color: rgba(41, 192, 146, 1);
+}
