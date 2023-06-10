@@ -51,9 +51,8 @@
 #build-game
 #build-game-container
 #build-game-feature{
-    /* background-color: rgb(189, 171, 171); */
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     height: 500px;
     width: 90%;
     border: 1px solid #AAAAAA;
@@ -62,18 +61,25 @@
 #build-game
 #build-game-container
 #build-game-feature
-#feature-one > img{
-   height: 500px;
-   
-   
-    
+#feature-one{
+    height: 100%;
+    width: 55%;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-one
+img{
+   height: 100%;
+   width: 100%;    
+   object-fit: cover;
 }
 #build-game
 #build-game-container
 #build-game-feature
 #feature-two{
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: center;
     align-items: center;
     width: 40%;
     margin-right: 60px;
@@ -84,8 +90,6 @@
 #feature-two
 #feature-img{
     height:470px;
-   
-
 }
 #build-game
 #build-game-container
@@ -107,8 +111,7 @@
     align-items: flex-start;
     font-size: 20px;
     font-family: 'Catamaran', sans-serif;
-    font-weight: 600;
-    
+    font-weight: 600;   
 }
 #build-game
 #build-game-container
