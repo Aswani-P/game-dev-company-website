@@ -54,7 +54,7 @@
 .each-count{
     height: 50px;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 800;
     font-family: 'Catamaran', sans-serif;
     letter-spacing: 2%;
 }
@@ -64,7 +64,7 @@
 .each-container
 .each-text{
     height: 34px;
-    font-size: 24px;
+    font-size: 22px;
     color: rgba(85, 85, 85, 1);
     font-family: 'Catamaran', sans-serif;
 }
