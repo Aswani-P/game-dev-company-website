@@ -1,0 +1,127 @@
+#build-game{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 850px;
+   
+}
+#build-game
+#build-game-container{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    width: 90%;
+   
+}
+#build-game
+#build-game-container
+#build-game-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 150px;
+
+}
+#build-game
+#build-game-container
+#build-game-text
+#build-game-text-head{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#build-game
+#build-game-container
+#build-game-text
+#build-game-text-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: rgba(85, 85, 85, 1);
+    font-weight: 400;
+}
+#build-game
+#build-game-container
+#build-game-feature{
+    display: flex;
+    justify-content: flex-start;
+    height: 500px;
+    width: 90%;
+    border: 1px solid #AAAAAA;
+   
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-one{
+    height: 100%;
+    width: 55%;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-one
+img{
+   height: 100%;
+   width: 100%;    
+   object-fit: cover;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    margin-right: 60px;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-two
+#feature-img{
+    height:470px;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-two
+#feature-text{
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-left: 30px;
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-two
+#feature-text
+.feature-text-head{
+    align-items: flex-start;
+    font-size: 20px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 600;   
+}
+#build-game
+#build-game-container
+#build-game-feature
+#feature-two
+#feature-text
+.feature-text-content{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #555555;
+    margin-top: -20px;
+}

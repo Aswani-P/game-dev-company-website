@@ -1,17 +1,18 @@
 #properties{
-    height: 300px;
+    height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #f7f7f7;
 }
 #properties
 #property-container{
     display: flex;
-    height: 210px;
+    height: 250px;
     width: 80%;
     border: 1px solid #D92A68;
     box-sizing: border-box;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0px 4px 66px 0px rgba(217, 42, 104, 0.13);
    
 }
