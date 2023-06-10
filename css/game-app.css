@@ -1,0 +1,119 @@
+#game-app{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 600px;
+    font-family: 'Catamaran', sans-serif;
+}
+#game-app
+#game-app-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width:80%;
+    height: 500px;
+}
+#game-app
+#game-app-container
+#container-text{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}
+#game-app
+#game-app-container
+#container-text
+#why-game-app{
+    font-size: 28px;
+    font-weight: 600;
+   
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-content{
+    font-size: 17px;
+    font-weight: 400;
+    color: #555555;
+}
+
+#game-app
+#game-app-container
+#container-text
+#game-app-points{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 120px;
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.point{
+    display: flex;
+    align-items: center;
+    color: #555555;
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.point-text{
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+#game-app
+#game-app-container
+#container-text
+#game-app-points
+.dot{
+    width: 12px;
+    height: 12px;
+    display: flex;
+}
+#game-app 
+#game-app-container 
+#container-text 
+#game-app-points 
+.dot
+img{
+    height: 100%;
+    width: 100%;
+}
+#game-app
+#game-app-container
+#game-app-button{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    background: linear-gradient(97.05deg, #D92A68 0%, #AC003D 100%);
+    border-radius: 16px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#game-app
+#game-app-container
+#container-img{
+    height: 100%;
+    width: 55%;
+}
+#game-app
+#game-app-container
+#container-img
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom;
+}
