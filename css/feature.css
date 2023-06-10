@@ -1,0 +1,152 @@
+#feature{
+    height: 750px;
+    gap: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#feature > div{
+    width: 70%;
+}
+#feature
+#feature-text{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+#feature
+#feature-container{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#feature
+#feature-container
+.each-feature{
+    height: 60px;
+    width: 23%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid #AAAAAA;
+    border-radius: 8px;
+}
+
+#feature
+#feature-container
+.each-feature
+.vector{
+    margin-left: 20px;
+}
+
+#feature
+#feature-container
+.each-feature
+.custom{
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:18px;
+    font-weight: 600;
+}
+
+#feature
+#custom-box{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+    align-items: center;
+    border: 1px solid #D92A68;
+    border-radius: 8px;
+    box-shadow: 0px 6px 66px 0px rgba(217, 42, 104, 0.13);
+}
+#feature
+#custom-box > div{
+    height: 350px;
+    width: 45%;
+}
+#feature
+#custom-box
+#custom-img
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+#feature
+#custom-box
+#custom-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: 'Catamaran', sans-serif;
+}
+#feature
+#custom-box
+#custom-text
+#custom-head{
+    font-size: 25px;
+    font-weight: 600;
+    color: #010101;
+}
+
+#feature
+#custom-box
+#custom-text
+#custom-content{
+    color: #555555;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+#feature
+#custom-box
+#custom-text
+#custom-points{
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    justify-content: space-around;
+}
+#feature
+#custom-box
+#custom-text
+#custom-points
+.point{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+#feature
+#custom-box
+#custom-text
+#custom-points
+.point
+.point-text{
+    font-size: 17px;
+    font-weight: 400;
+    color:rgba(0, 0, 0, 1);
+    margin-left: 10px;
+}
+#feature
+#custom-box
+#custom-button{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(97.05deg, #D92A68 0%, #AC003D 100%);
+    border-radius: 16px;
+    cursor: pointer;
+    height: 40px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
