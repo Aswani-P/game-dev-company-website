@@ -1,0 +1,45 @@
+#pre-build{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+}
+#pre-build
+#pre-build-container{
+    height: 400px;
+    width:90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+}
+#pre-build
+#pre-build-container
+#pre-build-text{
+    text-transform: uppercase;
+    font-size: 28px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 600;
+}
+#pre-build
+#pre-build-container
+#pre-build-img-container{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-left: 20px;
+}
+#pre-build
+#pre-build-container
+#pre-build-img-container
+.pre-build-img{
+    height: 100%;
+    margin-right: 20px;
+}
+img{
+    height: 100%;
+}
