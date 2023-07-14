@@ -31,7 +31,6 @@
     width: 100%;
     overflow-x: scroll;
     overflow-y: hidden;
-    justify-content: space-around;
     margin-left: 20px;
 }
 #pre-build
@@ -39,5 +38,8 @@
 #pre-build-img-container
 .pre-build-img{
     height: 100%;
-    margin: 20px;
+    margin-right: 20px;
+}
+img{
+    height: 100%;
 }
